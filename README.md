@@ -99,7 +99,7 @@ lucaswmlima@github
 
 If you have any questions, feel free to <a href="mailto:lucaswilliamml@gmail.com">contact me through email</a>.
 
-You can talk to me too on <a href="https://www.linkedin.com/in/lucaswmlima/">LinkedIn</a>.
+You can talk to me too on <a href="https://www.linkedin.com/in/lucaswmlima/">LinkedIn</a>.<br>
 You can also see my <a href="https://portfolio-lucaswilliam.vercel.app">Portfolio</a>.
 
   </td>

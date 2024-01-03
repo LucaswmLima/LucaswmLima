@@ -8,7 +8,7 @@ Hi, I'm Lucas William!&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/
 
   </h1>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/LucaswmLima/LucaswmLima/assets/82186618/e4cd4479-6a11-44e1-a63c-20e810c0b467" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```

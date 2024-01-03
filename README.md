@@ -19,7 +19,7 @@ lucaswmlima@github
 📝 Passionate about programming and general science
 🔭 Currently immersed in Backend and Frontend projects
 🌱 Learning about various areas of technology and science
-🌟 Proficient in Python and JavaScript
+🌟 Proficient in JavaScript and Python
 🚩 Excited about developing Full Stack Applications
 🎮 Loves playing video games and exploring science and technology
 🎵 Enjoys rock, metal, and k-pop

@@ -95,7 +95,7 @@ I-am-lucaswmlima@github
 
 ## Let's Work Together!
 
-If you have any questions, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a>.
+If you have any questions, feel free to <a href="mailto:lucaswilliamml@gmail.com">contact me through email</a>.
 
 You can talk to me too on <a href="https://www.linkedin.com/in/lucaswmlima/">LinkedIn</a>.
 
@@ -113,8 +113,4 @@ You can talk to me too on <a href="https://www.linkedin.com/in/lucaswmlima/">Lin
 </table>
 
 ---
-
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
-
 

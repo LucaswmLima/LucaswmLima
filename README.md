@@ -12,7 +12,7 @@ Hi, I'm Lucas William!&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/
 <hr>
 
 ```
-I-am-lucaswmlima@github
+lucaswmlima@github
 -------------------------
 💻 Self-taught Full Stack Developer and Technology enthusiast
 📚 Holds a degree in Computer Engineering and Mechatronics technician

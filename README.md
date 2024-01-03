@@ -88,6 +88,8 @@ I-am-lucaswmlima@github
 
 ## GitHub Stats
 
+![Github Stars](https://github-readme-stats.vercel.app/api?username=lucaswmlima&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswmlima&hide=Tex&langs_count=8&theme=algolia&layout=compact)
+
 
 <table style="border: none">
   <tr>

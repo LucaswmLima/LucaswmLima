@@ -14,7 +14,7 @@ Hi, I'm Lucas William!&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/
 ```
 lucaswmlima@github
 -------------------------
-💻 Self-taught Full Stack Developer and Technology enthusiast
+💻 Full Stack Developer and Technology enthusiast
 📚 Holds a degree in Computer Engineering and Mechatronics technician
 📝 Passionate about programming and general science
 🔭 Currently immersed in Full-Stack and Data Science projects

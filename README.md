@@ -17,7 +17,7 @@ lucaswmlima@github
 💻 Full Stack Developer and Technology enthusiast
 📚 Holds a degree in Computer Engineering and Mechatronics technician
 📝 Passionate about programming and general science
-🔭 Currently immersed in Full-Stack and Data Science projects
+🔭 Currently immersed in Full-Stack projects
 🌱 Learning about various areas of technology and science
 🌟 Proficient in JavaScript and Python
 🚩 Excited about developing Full Stack Applications
